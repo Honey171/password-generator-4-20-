@@ -1,6 +1,6 @@
 What can u do with this app?
 
-- U can create a password in 4-20 length with conditions and copy it with just one click
+- With just one click, you can create a password in 4 to 20 characters with conditions
 
 Made with: css,html,javascript
 
